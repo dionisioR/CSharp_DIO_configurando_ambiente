@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\CSharp\\CSharp_DIO_configurando_ambiente\\CSharp_DIO_configurando_ambiente.csproj": {}
+    "C:\\ZDocument\\TechNation\\C#_BackEnd_Pleno\\2024-12-15_Kaua Alves\\CSharp_DIO_configurando_ambiente\\CSharp_DIO_configurando_ambiente.csproj": {}
   },
   "projects": {
-    "F:\\CSharp\\CSharp_DIO_configurando_ambiente\\CSharp_DIO_configurando_ambiente.csproj": {
+    "C:\\ZDocument\\TechNation\\C#_BackEnd_Pleno\\2024-12-15_Kaua Alves\\CSharp_DIO_configurando_ambiente\\CSharp_DIO_configurando_ambiente.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\CSharp\\CSharp_DIO_configurando_ambiente\\CSharp_DIO_configurando_ambiente.csproj",
+        "projectUniqueName": "C:\\ZDocument\\TechNation\\C#_BackEnd_Pleno\\2024-12-15_Kaua Alves\\CSharp_DIO_configurando_ambiente\\CSharp_DIO_configurando_ambiente.csproj",
         "projectName": "CSharp_DIO_configurando_ambiente",
-        "projectPath": "F:\\CSharp\\CSharp_DIO_configurando_ambiente\\CSharp_DIO_configurando_ambiente.csproj",
-        "packagesPath": "C:\\Users\\Micro\\.nuget\\packages\\",
-        "outputPath": "F:\\CSharp\\CSharp_DIO_configurando_ambiente\\obj\\",
+        "projectPath": "C:\\ZDocument\\TechNation\\C#_BackEnd_Pleno\\2024-12-15_Kaua Alves\\CSharp_DIO_configurando_ambiente\\CSharp_DIO_configurando_ambiente.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\ZDocument\\TechNation\\C#_BackEnd_Pleno\\2024-12-15_Kaua Alves\\CSharp_DIO_configurando_ambiente\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Micro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
