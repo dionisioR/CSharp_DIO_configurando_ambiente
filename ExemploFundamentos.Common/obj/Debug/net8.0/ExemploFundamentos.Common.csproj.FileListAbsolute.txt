@@ -1,0 +1,12 @@
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos.Common\bin\Debug\net8.0\ExemploFundamentos.Common.deps.json
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos.Common\bin\Debug\net8.0\ExemploFundamentos.Common.dll
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos.Common\bin\Debug\net8.0\ExemploFundamentos.Common.pdb
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.AssemblyInfoInputs.cache
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.AssemblyInfo.cs
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.csproj.CoreCompileInputs.cache
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.sourcelink.json
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.dll
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos.Common\obj\Debug\net8.0\refint\ExemploFundamentos.Common.dll
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.pdb
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos.Common\obj\Debug\net8.0\ref\ExemploFundamentos.Common.dll

@@ -1,0 +1,15 @@
+F:\CSharp\CSharp_DIO_configurando_ambiente\ArrayListas\bin\Debug\net8.0\ArrayListas.exe
+F:\CSharp\CSharp_DIO_configurando_ambiente\ArrayListas\bin\Debug\net8.0\ArrayListas.deps.json
+F:\CSharp\CSharp_DIO_configurando_ambiente\ArrayListas\bin\Debug\net8.0\ArrayListas.runtimeconfig.json
+F:\CSharp\CSharp_DIO_configurando_ambiente\ArrayListas\bin\Debug\net8.0\ArrayListas.dll
+F:\CSharp\CSharp_DIO_configurando_ambiente\ArrayListas\bin\Debug\net8.0\ArrayListas.pdb
+F:\CSharp\CSharp_DIO_configurando_ambiente\ArrayListas\obj\Debug\net8.0\ArrayListas.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharp\CSharp_DIO_configurando_ambiente\ArrayListas\obj\Debug\net8.0\ArrayListas.AssemblyInfoInputs.cache
+F:\CSharp\CSharp_DIO_configurando_ambiente\ArrayListas\obj\Debug\net8.0\ArrayListas.AssemblyInfo.cs
+F:\CSharp\CSharp_DIO_configurando_ambiente\ArrayListas\obj\Debug\net8.0\ArrayListas.csproj.CoreCompileInputs.cache
+F:\CSharp\CSharp_DIO_configurando_ambiente\ArrayListas\obj\Debug\net8.0\ArrayListas.sourcelink.json
+F:\CSharp\CSharp_DIO_configurando_ambiente\ArrayListas\obj\Debug\net8.0\ArrayListas.dll
+F:\CSharp\CSharp_DIO_configurando_ambiente\ArrayListas\obj\Debug\net8.0\refint\ArrayListas.dll
+F:\CSharp\CSharp_DIO_configurando_ambiente\ArrayListas\obj\Debug\net8.0\ArrayListas.pdb
+F:\CSharp\CSharp_DIO_configurando_ambiente\ArrayListas\obj\Debug\net8.0\ArrayListas.genruntimeconfig.cache
+F:\CSharp\CSharp_DIO_configurando_ambiente\ArrayListas\obj\Debug\net8.0\ref\ArrayListas.dll

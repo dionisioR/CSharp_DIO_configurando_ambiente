@@ -1,0 +1,49 @@
+F:\CSharp\CSharp_DIO_configurando_ambiente\bin\Debug\net8.0\CSharp_DIO_configurando_ambiente.exe
+F:\CSharp\CSharp_DIO_configurando_ambiente\bin\Debug\net8.0\CSharp_DIO_configurando_ambiente.deps.json
+F:\CSharp\CSharp_DIO_configurando_ambiente\bin\Debug\net8.0\CSharp_DIO_configurando_ambiente.runtimeconfig.json
+F:\CSharp\CSharp_DIO_configurando_ambiente\bin\Debug\net8.0\CSharp_DIO_configurando_ambiente.dll
+F:\CSharp\CSharp_DIO_configurando_ambiente\bin\Debug\net8.0\CSharp_DIO_configurando_ambiente.pdb
+F:\CSharp\CSharp_DIO_configurando_ambiente\obj\Debug\net8.0\CSharp_DIO_configurando_ambiente.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharp\CSharp_DIO_configurando_ambiente\obj\Debug\net8.0\CSharp_DIO_configurando_ambiente.AssemblyInfoInputs.cache
+F:\CSharp\CSharp_DIO_configurando_ambiente\obj\Debug\net8.0\CSharp_DIO_configurando_ambiente.AssemblyInfo.cs
+F:\CSharp\CSharp_DIO_configurando_ambiente\obj\Debug\net8.0\CSharp_DIO_configurando_ambiente.csproj.CoreCompileInputs.cache
+F:\CSharp\CSharp_DIO_configurando_ambiente\obj\Debug\net8.0\CSharp_DIO_configurando_ambiente.sourcelink.json
+F:\CSharp\CSharp_DIO_configurando_ambiente\obj\Debug\net8.0\CSharp_DIO_configurando_ambiente.dll
+F:\CSharp\CSharp_DIO_configurando_ambiente\obj\Debug\net8.0\refint\CSharp_DIO_configurando_ambiente.dll
+F:\CSharp\CSharp_DIO_configurando_ambiente\obj\Debug\net8.0\CSharp_DIO_configurando_ambiente.pdb
+F:\CSharp\CSharp_DIO_configurando_ambiente\obj\Debug\net8.0\CSharp_DIO_configurando_ambiente.genruntimeconfig.cache
+F:\CSharp\CSharp_DIO_configurando_ambiente\obj\Debug\net8.0\ref\CSharp_DIO_configurando_ambiente.dll
+C:\ZDocument\TechNation\C#_BackEnd_Pleno\2024-12-15_Kaua Alves\CSharp_DIO_configurando_ambiente\bin\Debug\net8.0\CSharp_DIO_configurando_ambiente.exe
+C:\ZDocument\TechNation\C#_BackEnd_Pleno\2024-12-15_Kaua Alves\CSharp_DIO_configurando_ambiente\bin\Debug\net8.0\CSharp_DIO_configurando_ambiente.deps.json
+C:\ZDocument\TechNation\C#_BackEnd_Pleno\2024-12-15_Kaua Alves\CSharp_DIO_configurando_ambiente\bin\Debug\net8.0\CSharp_DIO_configurando_ambiente.runtimeconfig.json
+C:\ZDocument\TechNation\C#_BackEnd_Pleno\2024-12-15_Kaua Alves\CSharp_DIO_configurando_ambiente\bin\Debug\net8.0\CSharp_DIO_configurando_ambiente.dll
+C:\ZDocument\TechNation\C#_BackEnd_Pleno\2024-12-15_Kaua Alves\CSharp_DIO_configurando_ambiente\bin\Debug\net8.0\CSharp_DIO_configurando_ambiente.pdb
+C:\ZDocument\TechNation\C#_BackEnd_Pleno\2024-12-15_Kaua Alves\CSharp_DIO_configurando_ambiente\obj\Debug\net8.0\CSharp_DIO_configurando_ambiente.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZDocument\TechNation\C#_BackEnd_Pleno\2024-12-15_Kaua Alves\CSharp_DIO_configurando_ambiente\obj\Debug\net8.0\CSharp_DIO_configurando_ambiente.AssemblyInfoInputs.cache
+C:\ZDocument\TechNation\C#_BackEnd_Pleno\2024-12-15_Kaua Alves\CSharp_DIO_configurando_ambiente\obj\Debug\net8.0\CSharp_DIO_configurando_ambiente.AssemblyInfo.cs
+C:\ZDocument\TechNation\C#_BackEnd_Pleno\2024-12-15_Kaua Alves\CSharp_DIO_configurando_ambiente\obj\Debug\net8.0\CSharp_DIO_configurando_ambiente.csproj.CoreCompileInputs.cache
+C:\ZDocument\TechNation\C#_BackEnd_Pleno\2024-12-15_Kaua Alves\CSharp_DIO_configurando_ambiente\obj\Debug\net8.0\CSharp_DIO_configurando_ambiente.sourcelink.json
+C:\ZDocument\TechNation\C#_BackEnd_Pleno\2024-12-15_Kaua Alves\CSharp_DIO_configurando_ambiente\obj\Debug\net8.0\CSharp_DIO_configurando_ambiente.dll
+C:\ZDocument\TechNation\C#_BackEnd_Pleno\2024-12-15_Kaua Alves\CSharp_DIO_configurando_ambiente\obj\Debug\net8.0\refint\CSharp_DIO_configurando_ambiente.dll
+C:\ZDocument\TechNation\C#_BackEnd_Pleno\2024-12-15_Kaua Alves\CSharp_DIO_configurando_ambiente\obj\Debug\net8.0\CSharp_DIO_configurando_ambiente.pdb
+C:\ZDocument\TechNation\C#_BackEnd_Pleno\2024-12-15_Kaua Alves\CSharp_DIO_configurando_ambiente\obj\Debug\net8.0\CSharp_DIO_configurando_ambiente.genruntimeconfig.cache
+C:\ZDocument\TechNation\C#_BackEnd_Pleno\2024-12-15_Kaua Alves\CSharp_DIO_configurando_ambiente\obj\Debug\net8.0\ref\CSharp_DIO_configurando_ambiente.dll
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos\bin\Debug\net8.0\CSharp_DIO_configurando_ambiente.exe
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos\bin\Debug\net8.0\CSharp_DIO_configurando_ambiente.deps.json
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos\bin\Debug\net8.0\CSharp_DIO_configurando_ambiente.runtimeconfig.json
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos\bin\Debug\net8.0\CSharp_DIO_configurando_ambiente.dll
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos\bin\Debug\net8.0\CSharp_DIO_configurando_ambiente.pdb
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.Common.dll
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.Common.pdb
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos\obj\Debug\net8.0\CSharp_DIO_configurando_ambiente.csproj.AssemblyReference.cache
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos\obj\Debug\net8.0\CSharp_DIO_configurando_ambiente.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos\obj\Debug\net8.0\CSharp_DIO_configurando_ambiente.AssemblyInfoInputs.cache
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos\obj\Debug\net8.0\CSharp_DIO_configurando_ambiente.AssemblyInfo.cs
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos\obj\Debug\net8.0\CSharp_DIO_configurando_ambiente.csproj.CoreCompileInputs.cache
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos\obj\Debug\net8.0\CSharp_DIO_configurando_ambiente.sourcelink.json
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos\obj\Debug\net8.0\CSharp_D.21CE2167.Up2Date
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos\obj\Debug\net8.0\CSharp_DIO_configurando_ambiente.dll
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos\obj\Debug\net8.0\refint\CSharp_DIO_configurando_ambiente.dll
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos\obj\Debug\net8.0\CSharp_DIO_configurando_ambiente.pdb
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos\obj\Debug\net8.0\CSharp_DIO_configurando_ambiente.genruntimeconfig.cache
+F:\CSharp\CSharp_DIO_configurando_ambiente\ExemploFundamentos\obj\Debug\net8.0\ref\CSharp_DIO_configurando_ambiente.dll
